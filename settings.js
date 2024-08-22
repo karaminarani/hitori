@@ -45,7 +45,7 @@ global.uang = {
 }
 
 global.mess = {
-	owner: 'ni fitur khusus baginda kijo',
+	owner: 'ni fitur khusus baginda gun',
 	admin: 'fitur ini bisa dipake kalo lu admin',
 	botAdmin: 'adminin gua dulu kocak!',
 	group: 'pake di grup tolol',
